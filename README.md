@@ -1,73 +1,104 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Raynald+Abraham+Ndun;Information+Technology+Student;Full+Stack+Developer;Coffee+Lover;Future+Software+Engineer" />
-</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Raynald+Abraham+Ndun;Full+Stack+Developer;Information+Technology+Student;Coffee+Lover;Future+Software+Engineer" />
 
-<h3 align="center">Passionate About Coding, Design & Innovation</h3>
+<br><br>
 
-<br>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="25"> About Me
+<br><br>
 
-<img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="18"> Information Technology Student  
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721291.png" width="18"> Full Stack Developer  
-<img src="https://cdn-icons-png.flaticon.com/512/1048/1048941.png" width="18"> Flutter & Mobile App Enthusiast  
-<img src="https://cdn-icons-png.flaticon.com/512/2935/2935307.png" width="18"> Coffee + Coding Lifestyle  
-<img src="https://cdn-icons-png.flaticon.com/512/2202/2202112.png" width="18"> Future Global Tech Talent  
-<img src="https://cdn-icons-png.flaticon.com/512/190/190411.png" width="18"> Always Learning New Things
+<img src="https://img.shields.io/badge/Passionate%20About-Coding%20%7C%20Design%20%7C%20Innovation-0A0F1C?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+
+</div>
 
 <br>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="25"> Tech Stack
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,flutter,php,laravel,mysql,html,css,js,dart,firebase,git,vscode&perline=6" />
-</p>
+## 👨‍💻 About Me
 
-<br>
+<img src="https://img.shields.io/badge/🎓%20Information%20Technology%20Student-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📱%20Flutter%20Developer-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☕%20Coffee%20Lover-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍%20Future%20Global%20Tech%20Talent-111827?style=for-the-badge"/>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="25"> GitHub Stats
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raynaldndun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raynaldndun&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
+</div>
 
 <br>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1534/1534959.png" width="25"> Activity Graph
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raynaldndun&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-</p>
+## ⚡ Tech Stack
 
-<br>
+<img src="https://skillicons.dev/icons?i=java,flutter,php,laravel,mysql,html,css,js,dart,firebase,git,vscode&perline=6"/>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="25"> Projects
-
-Coffee Ordering App  
-Smart Tourism Jakarta  
-Flutter UI Design  
-Laravel CRUD System  
-AI Feedback Analyzer
+</div>
 
 <br>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/747/747376.png" width="25"> Connect With Me
+<div align="center">
 
-<p align="center">
-<a href="https://instagram.com/raynaldndun_vv"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://linkedin.com/in/raynald-ndun-610079254"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://raynaldndunportofolio.netlify.app"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
+## 📊 GitHub Stats
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=raynaldndun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raynaldndun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
 
 <br>
 
-<p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250">
-</p>
+<div align="center">
 
-<h2 align="center">Build • Grow • Repeat</h2>
+## 🔥 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raynaldndun&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🐍 Snake Animation
+
+<img src="https://raw.githubusercontent.com/raynaldndun/raynaldndun/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<img src="https://img.shields.io/badge/☕%20Coffee%20Ordering%20App-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍%20Smart%20Tourism%20App-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20Laravel%20CRUD-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📱%20Flutter%20UI%20Design-111827?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://instagram.com/raynaldndun_vv"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://linkedin.com/in/raynald-ndun-610079254"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://raynaldndunportofolio.netlify.app"><img src="https://skillicons.dev/icons?i=github"/></a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
+
+### 🚀 Code • Build • Grow • Repeat
+
+</div>
