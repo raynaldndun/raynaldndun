@@ -8,8 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Information Systems Student
-- 🌍 Exchange Program to Korea
+- 🎓 Information Technology Student
 - 💻 Love Building Mobile Apps
 - ☕ Coffee Enthusiast
 
